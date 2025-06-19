@@ -1,3 +1,5 @@
+Lista de Desenvolvedores do Projeto 18/06/2025
+
 Dev 1
 Nome: Júlia Areal da Silva
 E-mail: julia.areal@sou.ufac.br
@@ -17,3 +19,4 @@ ronauro: sistemas de informacaooooRonaurOOooOOO
 lp1lp2estruturadedadosbancodedadosalgoritmos
 petecopetecopetecoronaurocampos12312312312312
 
+ISSO AQUI SALVEI
